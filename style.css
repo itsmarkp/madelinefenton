@@ -1,0 +1,35 @@
+/* RSL Website stylesheet */
+
+a {
+    color : #cc3333;
+    font-weight : bold;
+    text-decoration : none;
+}
+
+a:visited {
+    color : #cc3333;
+    font-weight : bold;
+    text-decoration : none;
+}
+
+a:hover {
+    color : #725000;
+    font-weight : bold;
+    text-decoration : underline;
+}
+
+a:active {
+    color : #725000;
+    font-weight : bold;
+    text-decoration : underline;
+}
+
+body {
+    color : #333;
+    background-color : #ffffff;
+    font-family : Verdana, Arial, "Sans Serif";
+    font-size : 11px;
+    line-height : 120%;
+    text-decoration : none;
+    text-align : justify;
+}
